@@ -38,11 +38,13 @@ social:
   email: sasimichaelmurimi@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/michael-sasi
     - https://twitter.com/michaelsasi_ # change to your Twitter homepage
     - https://github.com/MichaelSasi # change to your GitHub homepage
+    - https://stackoverflow.com/users/18437345
+    - https://infosec.exchange/@michaelsasi
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/michael-sasi
 
 # Site Verification Settings
 webmaster_verifications:
@@ -59,7 +61,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-FCB9BF0LVD # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
