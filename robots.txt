@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /norobots/
+Disallow: /wp-admin
+
+User-agent: nsa
+Disallow: /
+
+User-agent: dci
+Disallow: /
+
+Sitemap: https://michaelsasi.github.io/sitemap.xml
